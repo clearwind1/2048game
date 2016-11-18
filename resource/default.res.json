@@ -1,0 +1,27 @@
+{
+	"groups":[
+	{
+		"keys":"loadingbar_png",
+		"name":"preloading"
+	},
+	{
+		"keys":"startgamebtn_png",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"loadingbar_png",
+		"type":"image",
+		"url":"assets/loadingbar.png"
+	},
+	{
+		"name":"description",
+		"type":"json",
+		"url":"config/description.json"
+	},
+	{
+		"name":"startgamebtn_png",
+		"type":"image",
+		"url":"assets/startgamebtn.png"
+	}]
+}
